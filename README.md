@@ -58,6 +58,7 @@
 - Output files are located at [out](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/out)
 - Python files are located at [src](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/src)
 - Repgrid files are located at [repgrid](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/repgrid)
+- Report is located at [report](https://github.com/Aoishi28/CSC591_Group_5_Project/blob/main/ASE_Group_5_Project_Report.pdf)
 
 
 ## 💻 Wish to contribute?
