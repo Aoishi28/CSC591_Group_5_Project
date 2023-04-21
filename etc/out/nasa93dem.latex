@@ -1,0 +1,35 @@
+\begin{center}
+\begin{tabular}{||c c c c c c ||}
+\hline
+  & Kloc+ & Effort- & Defects- & Months- & n_evals avg
+\hline
+all & 47.5 & 252.0 & 2007.0 & 21.39999999999999 & 0.0
+\hline
+sway1 & 14.635 & 72.7 & 565.4 & 13.3 & 5.0
+\hline
+sway2 & 28.625000000000007 & 140.0 & 1087.15 & 16.264999999999997 & 5.0
+\hline
+xpln1 & 12.930000000000001 & 67.8 & 474.35 & 12.839999999999998 & 5.0
+\hline
+xpln2 & 37.435 & 314.38 & 1460.55 & 19.025 & 5.0
+\hline
+top & 4.8 & 15.48 & 149.95 & 8.644999999999998 & 93.0
+\hline\end{tabular}
+\end{center}\begin{center}
+\begin{tabular}{||c c c c c ||}
+\hline
+  & Kloc+ & Effort- & Defects- & Months-
+\hline
+all to all & = & = & = & =
+\hline
+all to sway1 & ≠ & ≠ & ≠ & ≠
+\hline
+sway1 to sway2 & ≠ & ≠ & ≠ & ≠
+\hline
+sway1 to xpln1 & ≠ & = & = & =
+\hline
+sway2 to xpln2 & ≠ & ≠ & ≠ & ≠
+\hline
+sway1 to top & ≠ & ≠ & ≠ & ≠
+\hline\end{tabular}
+\end{center}
