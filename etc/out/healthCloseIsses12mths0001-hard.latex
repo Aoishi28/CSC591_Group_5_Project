@@ -1,0 +1,35 @@
+\begin{center}
+\begin{tabular}{||c c c c c ||}
+\hline
+  & MRE- & ACC+ & PRED40+ & n_evals avg
+\hline
+all & 74.9785 & 7.130000000000003 & 25.0 & 0.0
+\hline
+sway1 & 73.8075 & 7.580499999999999 & 25.0 & 8.0
+\hline
+sway2 & 73.1645 & 7.690499999999998 & 25.0 & 8.0
+\hline
+xpln1 & 73.78399999999999 & 7.548499999999999 & 25.0 & 8.0
+\hline
+xpln2 & 73.63449999999999 & 7.5725 & 25.0 & 8.0
+\hline
+top & 64.91 & 11.330000000000005 & 25.0 & 10000.0
+\hline\end{tabular}
+\end{center}\begin{center}
+\begin{tabular}{||c c c c ||}
+\hline
+  & MRE- & ACC+ & PRED40+
+\hline
+all to all & = & = & =
+\hline
+all to sway1 & ≠ & ≠ & ≠
+\hline
+sway1 to sway2 & ≠ & ≠ & ≠
+\hline
+sway1 to xpln1 & ≠ & ≠ & ≠
+\hline
+sway2 to xpln2 & ≠ & ≠ & ≠
+\hline
+sway1 to top & ≠ & ≠ & ≠
+\hline\end{tabular}
+\end{center}

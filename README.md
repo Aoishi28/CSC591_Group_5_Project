@@ -19,8 +19,7 @@
 [![Pylint](https://github.com/Aoishi28/CSC591_Group_5_Project/actions/workflows/pylint.yml/badge.svg)](https://github.com/Aoishi28/CSC591_Group_5_Project/actions/workflows/pylint.yml)
 
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Aoishi28/CSC591_Group_5_Project?style=plastic)
-[![contributors](https://img.shields.io/github/contributors/Aoishi28/CSC591_Group_5_Project)](https://github.com/Aoishi28/CSC591_Group_5_Project/graphs/contributors?style=plastic)
+
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Aoishi28/CSC591_Group_5_Project?style=plastic)<br/>
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Aoishi28/CSC591_Group_5_Project)](https://github.com/Aoishi28/CSC591_Group_5_Project/releases/tag/v1.0.0)
@@ -40,15 +39,26 @@
   - Clone [this repository](https://github.com/Aoishi28/CSC591_Group_5_Project).
 
   - Install the dependencies at using the requirements file at the root:
-    
-    bash
-    
+           
     $ cd CSC591_Group_5_Project
     
     $ pip install -r requirements.txt
     
-
+   - Change directory to src 
+   
+    $ cd src
     
+   - Run main.py to generate table for all the datasets.
+   
+    $ python main.py
+    
+## Project Structure
+
+- Data files are located at [data](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/data)
+- Output files are located at [out](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/out)
+- Python files are located at [src](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/src)
+- Repgrid files are located at [repgrid](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/repgrid)
+- Report is located at [report](https://github.com/Aoishi28/CSC591_Group_5_Project/blob/main/ASE_Group_5_Project_Report.pdf)
 
 
 ## 💻 Wish to contribute?

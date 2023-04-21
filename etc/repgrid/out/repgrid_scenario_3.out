@@ -1,0 +1,45 @@
+    51
+    |.. 39
+    |.. |.. ChevroletCamaro
+    |.. |.. 37
+    |.. |.. |.. Chrysler300
+    |.. |.. |.. NissanRogue
+    |.. 46
+    |.. |.. ToyotaHighlander
+    |.. |.. 29
+    |.. |.. |.. HondaAccord
+    |.. |.. |.. DodgeAvenger
+    61
+    |.. 39
+    |.. |.. 15
+    |.. |.. |.. AllSeasonTires:WinterTires
+    |.. |.. |.. All-WheelDrive:Four-WheelDrive
+    |.. |.. 26
+    |.. |.. |.. MoonRoof:SunRoof
+    |.. |.. |.. 36
+    |.. |.. |.. |.. SportsCar:NormalCar
+    |.. |.. |.. |.. Small-SizedCar:Big-SizedCar
+    |.. 39
+    |.. |.. 33
+    |.. |.. |.. Semi-AutomaticCar:Self-DrivingCar
+    |.. |.. |.. ElectricCar:Non-ElectricCar
+    |.. |.. 33
+    |.. |.. |.. DieselCar:GasolineCar
+    |.. |.. |.. 33
+    |.. |.. |.. |.. B-SegementCar:C-SegmentCar
+    |.. |.. |.. |.. CrewCabCar:QuadCabCar
+
+    A HondaAccord
+    B DodgeAvenger
+    C Chrysler300
+    D NissanRogue
+    E ChevroletCamaro
+    F ToyotaHighlander
+
+    {E         F          }
+    {                     }
+    {                     }
+    {                     }
+    {                     }
+    {  B                  }
+    {   D                 }

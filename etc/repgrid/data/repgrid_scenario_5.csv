@@ -1,0 +1,22 @@
+    local _ = " "
+    return {
+     domain="dissementian platforms",
+     cols={   {'DieselCar', 2, 5, 1, 5, 5, 3, 'GasolineCar'},
+               {'AllSeasonTires', 3, 4, 5, 1, 5, 1, 'WinterTires'},
+      {'CrewCabCar', 5, 5, 4, 5, 5, 1, 'QuadCabCar'},
+           {'MoonRoof', 5, 5, 4, 5, 5, 5, 'SunRoof'},
+    {'ElectricCar', 5, 4, 5, 5, 5, 1, 'Non-ElectricCar'},
+          {'B-SegementCar', 5, 5, 1, 1, 5, 5, 'C-SegmentCar'},
+           {'All-WheelDrive', 1, 4, 5, 5, 5, 1, 'Four-WheelDrive'},
+          {'Small-SizedCar', 3, 3, 3, 5, 3, 3, 'Big-SizedCar'},
+          {'SportsCar', 4, 5, 5, 4, 5, 1, 'NormalCar'},
+          {'Semi-AutomaticCar', 5, 4, 5, 1, 1, 1, 'Self-DrivingCar'}},
+    rows={                      { _, _, _, _, _,'ToyotaHighlander'},
+                                { _, _, _, _, 'ChevroletCamaro'},
+                                { _, _, _, 'NissanRogue'},
+                                { _, _,'Chrysler300'},
+                                { _,'HondaAccord'},
+                                {'DodgeAvenger'}
+    }
+
+
