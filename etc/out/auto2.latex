@@ -1,0 +1,35 @@
+\begin{center}
+\begin{tabular}{||c c c c c c ||}
+\hline
+  & CityMPG+ & HighwayMPG+ & Weight- & Class- & n_evals avg
+\hline
+all & 21.0 & 28.0 & 3040.0 & 17.699999999999996 & 0.0
+\hline
+sway1 & 28.95 & 33.35 & 2217.5 & 10.03 & 5.0
+\hline
+sway2 & 26.9 & 31.9 & 2374.5 & 10.889999999999999 & 5.0
+\hline
+xpln1 & 28.75 & 33.15 & 2343.5 & 10.655 & 5.0
+\hline
+xpln2 & 27.25 & 32.8 & 2430.0 & 11.375 & 5.0
+\hline
+top & 33.0 & 40.2 & 2053.0 & 8.919999999999998 & 93.0
+\hline\end{tabular}
+\end{center}\begin{center}
+\begin{tabular}{||c c c c c ||}
+\hline
+  & CityMPG+ & HighwayMPG+ & Weight- & Class-
+\hline
+all to all & = & = & = & =
+\hline
+all to sway1 & ≠ & ≠ & ≠ & ≠
+\hline
+sway1 to sway2 & ≠ & ≠ & ≠ & ≠
+\hline
+sway1 to xpln1 & ≠ & ≠ & ≠ & ≠
+\hline
+sway2 to xpln2 & = & = & = & =
+\hline
+sway1 to top & ≠ & ≠ & ≠ & ≠
+\hline\end{tabular}
+\end{center}
