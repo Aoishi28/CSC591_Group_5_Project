@@ -4,13 +4,7 @@
   
 # Automated SE : CSC591 - Project : Group 5
   
-</div>
 
-<p align="center">
-  <img width="400" height="400" src="https://github.com/Aoishi28/CSC591_Group5_Lua2Py/blob/main/etc/img/logo.png">
-</p>
-
-<div align="center"> 
   
 ## Modifying SWAY and XPLN functions 
 
