@@ -39,15 +39,25 @@
   - Clone [this repository](https://github.com/Aoishi28/CSC591_Group_5_Project).
 
   - Install the dependencies at using the requirements file at the root:
-    
-    bash
-    
+           
     $ cd CSC591_Group_5_Project
     
     $ pip install -r requirements.txt
     
-
+   - Change directory to src 
+   
+    $ cd src
     
+   - Run main.py to generate table for all the datasets.
+   
+    $ python main.py
+    
+## Project Structure
+
+- Data files are located at [data](https://github.com/Aoishi28/CSC591_Group_5_Project/main/etc/data)
+- Output files are located at [out](https://github.com/Aoishi28/CSC591_Group_5_Project/main/etc/out)
+- Python files are located at [src](https://github.com/Aoishi28/CSC591_Group_5_Project/main/src)
+- Repgrid files are located at [repgrid](https://github.com/Aoishi28/CSC591_Group_5_Project/main/etc/repgrid)
 
 
 ## 💻 Wish to contribute?
