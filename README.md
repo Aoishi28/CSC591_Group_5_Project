@@ -54,10 +54,10 @@
     
 ## Project Structure
 
-- Data files are located at [data](https://github.com/Aoishi28/CSC591_Group_5_Project/main/etc/data)
-- Output files are located at [out](https://github.com/Aoishi28/CSC591_Group_5_Project/main/etc/out)
-- Python files are located at [src](https://github.com/Aoishi28/CSC591_Group_5_Project/main/src)
-- Repgrid files are located at [repgrid](https://github.com/Aoishi28/CSC591_Group_5_Project/main/etc/repgrid)
+- Data files are located at [data](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/data)
+- Output files are located at [out](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/out)
+- Python files are located at [src](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/src)
+- Repgrid files are located at [repgrid](https://github.com/Aoishi28/CSC591_Group_5_Project/tree/main/etc/repgrid)
 
 
 ## 💻 Wish to contribute?
