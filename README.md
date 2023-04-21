@@ -19,8 +19,7 @@
 [![Pylint](https://github.com/Aoishi28/CSC591_Group_5_Project/actions/workflows/pylint.yml/badge.svg)](https://github.com/Aoishi28/CSC591_Group_5_Project/actions/workflows/pylint.yml)
 
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Aoishi28/CSC591_Group_5_Project?style=plastic)
-[![contributors](https://img.shields.io/github/contributors/Aoishi28/CSC591_Group_5_Project)](https://github.com/Aoishi28/CSC591_Group_5_Project/graphs/contributors?style=plastic)
+
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Aoishi28/CSC591_Group_5_Project?style=plastic)<br/>
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Aoishi28/CSC591_Group_5_Project)](https://github.com/Aoishi28/CSC591_Group_5_Project/releases/tag/v1.0.0)
