@@ -52,7 +52,7 @@
 
 
 ## 💻 Wish to contribute?
--You will find a [CONTRIBUTING.md](https://github.com/Aoishi28/CSC591_Group_5_Project/blob/main/CONTRIBUTING.md) in our repository which will provide all the potential contributors a short guide to how they can help build [Lua2Py](https://github.com/Aoishi28/CSC591_Group_5_Project)
+-You will find a [CONTRIBUTING.md](https://github.com/Aoishi28/CSC591_Group_5_Project/blob/main/CONTRIBUTING.md) in our repository which will provide all the potential contributors a short guide to how they can help build [Modifying SWAY and XPLN](https://github.com/Aoishi28/CSC591_Group_5_Project)
 - This file is for:
   - Project Owners - Initiaters and maintainers of the file.
   - Project contributors - People who think existing features can be simplified or new features can be added to improve the project.
